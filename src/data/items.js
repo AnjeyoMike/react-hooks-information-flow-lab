@@ -1,4 +1,4 @@
-const items = [
+/*const items = [
   { id: 1, name: "Yogurt", category: "Dairy" },
   { id: 2, name: "Pomegranate", category: "Produce" },
   { id: 3, name: "Lettuce", category: "Produce" },
@@ -6,4 +6,8 @@ const items = [
   { id: 5, name: "Cookies", category: "Dessert" },
 ];
 
-export default items;
+export default items;*/
+// In your test files
+import Filter from "../components/Filter";
+import Header from "../components/Header";
+
